@@ -140,7 +140,7 @@ const styles = StyleSheet.create({
   safeArea: { flex: 1, backgroundColor: '#ffffff' },
   scroll: { paddingBottom: 20, backgroundColor: '#ffffff' },
   header: {
-    backgroundColor: '#238e0eff', // bg-blue-600
+    backgroundColor: '#e1adffff', // bg-blue-600
     height: 160,
     alignItems: 'center',
     justifyContent: 'center',
